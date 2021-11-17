@@ -1,0 +1,138 @@
+{
+  "name": "Kunci Token List",
+  "logoURI": "https://kunciwallet.com/logo512.png",
+  "keywords": [
+    "solana",
+    "spl"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "ethereum": {
+      "name": "ethereum",
+      "description": "Asset bridged from ethereum"
+    },
+    "lp-token": {
+      "name": "lp-token",
+      "description": "Asset representing liquidity provider token"
+    },
+    "wrapped-kunciwallet": {
+      "name": "wrapped-kunciwallet",
+      "description": "Asset wrapped using kunciwallet bridge"
+    },
+    "wrapped": {
+      "name": "wrapped",
+      "description": "Asset wrapped using wormhole bridge"
+    },
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
+    },
+    "bull": {
+      "name": "bull",
+      "description": "Leveraged Bull asset"
+    },
+    "bear": {
+      "name": "bear",
+      "description": "Leveraged Bear asset"
+    },
+    "nft": {
+      "name": "nft",
+      "description": "Non-fungible token"
+    },
+    "security-token": {
+      "name": "security-token",
+      "description": "Tokens that are used to gain access to an electronically restricted resource"
+    },
+    "utility-token": {
+      "name": "utility-token",
+      "description": "Tokens that are designed to be spent within a certain blockchain ecosystem e.g. most of the SPL-Tokens"
+    },
+    "tokenized-stock": {
+      "name": "tokenized-stock",
+      "description": "Tokenized stocks are tokenized derivatives that represent traditional securities, particularly shares in publicly firms traded on regulated exchanges"
+    }
+  },
+  "timestamp": "2021-11-17T09:55:00+0000",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "3L47U6yQoyDv9RUP7ArjDS3SjdPs1SKWvsPpSrdTVjD1",
+      "name": "Bitcoin",
+      "decimals": 8,
+      "symbol": "BTC",
+      "logoURI": "https://raw.githubusercontent.com/kuncicoin/token-list/main/assets/mainnet/3L47U6yQoyDv9RUP7ArjDS3SjdPs1SKWvsPpSrdTVjD1/logo.png",
+      "tags": [
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BYFLmeH8UxgewLY9bP1gq9DHXiCTQ4N3Arq3Udj6Eh2v",
+      "name": "Ethereum",
+      "decimals": 8,
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/kuncicoin/token-list/main/assets/mainnet/BYFLmeH8UxgewLY9bP1gq9DHXiCTQ4N3Arq3Udj6Eh2v/logo.png",
+      "tags": [
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "zoXH6FPE16xMNeiD3ZdEVrHs54JrepyV6weD1LA1vQX",
+      "name": "Binance Coin",
+      "decimals": 8,
+      "symbol": "BNB",
+      "logoURI": "https://raw.githubusercontent.com/kuncicoin/token-list/main/assets/mainnet/zoXH6FPE16xMNeiD3ZdEVrHs54JrepyV6weD1LA1vQX/logo.png",
+      "tags": [
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8Fv1q8V2vZGV3z29cnYXgSkWjRXbpJ1FzZNV4QSpw8au",
+      "name": "Tether",
+      "decimals": 6,
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/kuncicoin/token-list/main/assets/mainnet/8Fv1q8V2vZGV3z29cnYXgSkWjRXbpJ1FzZNV4QSpw8au/logo.png",
+      "tags": [
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2gUDt5JRccGMob8biikYWwDjyaqDT2FWjGdpoxiyzcTt",
+      "name": "USD Coin",
+      "decimals": 6,
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/kuncicoin/token-list/main/assets/mainnet/2gUDt5JRccGMob8biikYWwDjyaqDT2FWjGdpoxiyzcTt/logo.png",
+      "tags": [
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "F7nf5p9NBsBzDXhExcZ3g5fcRqqdoFZWgNyquVvLqZni",
+      "name": "Indonesia Rupiah",
+      "decimals": 0,
+      "symbol": "IDR",
+      "logoURI": "https://raw.githubusercontent.com/kuncicoin/token-list/main/assets/mainnet/F7nf5p9NBsBzDXhExcZ3g5fcRqqdoFZWgNyquVvLqZni/logo.png",
+      "tags": [
+      ],
+      "extensions": {
+      }
+    },
+  ],
+  "version": {
+    "major": 0,
+    "minor": 3,
+    "patch": 2
+  }
+}
