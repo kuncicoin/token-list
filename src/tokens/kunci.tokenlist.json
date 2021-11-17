@@ -128,6 +128,78 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3L47U6yQoyDv9RUP7ArjDS3SjdPs1SKWvsPpSrdTVjD1",
+      "name": "Bitcoin",
+      "decimals": 8,
+      "symbol": "BTC",
+      "logoURI": "https://raw.githubusercontent.com/kuncicoin/token-list/main/assets/mainnet/3L47U6yQoyDv9RUP7ArjDS3SjdPs1SKWvsPpSrdTVjD1/logo.png",
+      "tags": [
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 102,
+      "address": "BYFLmeH8UxgewLY9bP1gq9DHXiCTQ4N3Arq3Udj6Eh2v",
+      "name": "Ethereum",
+      "decimals": 8,
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/kuncicoin/token-list/main/assets/mainnet/BYFLmeH8UxgewLY9bP1gq9DHXiCTQ4N3Arq3Udj6Eh2v/logo.png",
+      "tags": [
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 102,
+      "address": "zoXH6FPE16xMNeiD3ZdEVrHs54JrepyV6weD1LA1vQX",
+      "name": "Binance Coin",
+      "decimals": 8,
+      "symbol": "BNB",
+      "logoURI": "https://raw.githubusercontent.com/kuncicoin/token-list/main/assets/mainnet/zoXH6FPE16xMNeiD3ZdEVrHs54JrepyV6weD1LA1vQX/logo.png",
+      "tags": [
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 102,
+      "address": "8Fv1q8V2vZGV3z29cnYXgSkWjRXbpJ1FzZNV4QSpw8au",
+      "name": "Tether",
+      "decimals": 6,
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/kuncicoin/token-list/main/assets/mainnet/8Fv1q8V2vZGV3z29cnYXgSkWjRXbpJ1FzZNV4QSpw8au/logo.png",
+      "tags": [
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 102,
+      "address": "2gUDt5JRccGMob8biikYWwDjyaqDT2FWjGdpoxiyzcTt",
+      "name": "USD Coin",
+      "decimals": 6,
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/kuncicoin/token-list/main/assets/mainnet/2gUDt5JRccGMob8biikYWwDjyaqDT2FWjGdpoxiyzcTt/logo.png",
+      "tags": [
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 102,
+      "address": "F7nf5p9NBsBzDXhExcZ3g5fcRqqdoFZWgNyquVvLqZni",
+      "name": "Indonesia Rupiah",
+      "decimals": 0,
+      "symbol": "IDR",
+      "logoURI": "https://raw.githubusercontent.com/kuncicoin/token-list/main/assets/mainnet/F7nf5p9NBsBzDXhExcZ3g5fcRqqdoFZWgNyquVvLqZni/logo.png",
+      "tags": [
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {
