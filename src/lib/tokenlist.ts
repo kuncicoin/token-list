@@ -71,7 +71,7 @@ export class GitHubTokenListResolutionStrategy {
 
 export class CDNTokenListResolutionStrategy {
   repositories = [
-    'https://cdn.jsdelivr.net/gh/kunci/token-list@main/src/tokens/kunci.tokenlist.json',
+    'https://cdn.jsdelivr.net/gh/kuncicoin/token-list@main/src/tokens/kunci.tokenlist.json',
   ];
 
   resolve = () => {
